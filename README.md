@@ -55,4 +55,7 @@ The goal is to compute:
   
      ---
 
+******Application in reliability
+![picture](2.png)
+![picture](3.png)
 
