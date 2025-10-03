@@ -52,3 +52,8 @@ The goal is to compute:
 4. **Algorithm Selection**
    - Choose from a variety of statistical and engineering algorithms  
    - Flexible and extendable for network evaluation or sensor optimization
+  
+     ---
+
+     ![picture](2.png)
+     ![picture](3.png)
