@@ -23,3 +23,23 @@ Visualizations
 Generate a variety of plots and charts (PDFs, CDFs, joint probability heatmaps, etc.) to better understand the model.
 Modular Design
 Easy to extend with new algorithms, visualizations, or sensor models.
+
+The goal is to compute:
+
+- Marginal densities: \(f_T(t)\) and \(f_U(u)\)  
+- Joint density: \(f_{U,T}(u,t)\)  
+- Maximum load evaluation for the network  
+- Data-driven analysis and parameter estimation  
+
+---
+
+## Features
+
+1. **User-Friendly Parameter Selection**
+   - Set the number of sensors (`n`) and distribution parameters interactively  
+   - Choose from common distributions (Exponential, Normal, Weibull, Lognormal) or define custom distributions
+
+2. **Statistical Analysis**
+   - Compute marginal and joint densities analytically  
+   - Monte Carlo simulation for data-driven validation  
+   - Parameter estimation using MLE or Bayesian methods
