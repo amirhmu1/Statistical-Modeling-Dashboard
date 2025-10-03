@@ -55,5 +55,4 @@ The goal is to compute:
   
      ---
 
-     ![picture](2.png)
-     ![picture](3.png)
+
