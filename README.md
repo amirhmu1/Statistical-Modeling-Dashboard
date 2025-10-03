@@ -43,3 +43,12 @@ The goal is to compute:
    - Compute marginal and joint densities analytically  
    - Monte Carlo simulation for data-driven validation  
    - Parameter estimation using MLE or Bayesian methods
+  
+     3. **Visualization**
+   - Marginal density plots for `T` and `U`  
+   - Joint density heatmaps  
+   - Simulation results for maximum load evaluation
+
+4. **Algorithm Selection**
+   - Choose from a variety of statistical and engineering algorithms  
+   - Flexible and extendable for network evaluation or sensor optimization
